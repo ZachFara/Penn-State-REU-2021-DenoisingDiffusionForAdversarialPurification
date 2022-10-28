@@ -13,5 +13,6 @@ The goals of this project were to improve upon existing denoising diffusion mode
 
 
 Citations:
+
 Carlini, N., Tramer, F., Krishnamurthy, Dvijotham, &amp; Kolter, J. Z. (2022, June 21). (certified!!) adversarial robustness for free! arXiv.org. Retrieved October 28, 2022, from https://arxiv.org/abs/2206.10550 
 Ho, J., Jain, A., &amp; Abbeel, P. (2020, December 16). Denoising Diffusion Probabilistic models. arXiv.org. Retrieved October 28, 2022, from https://arxiv.org/abs/2006.11239 
