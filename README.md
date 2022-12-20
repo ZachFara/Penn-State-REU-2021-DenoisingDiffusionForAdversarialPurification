@@ -1,7 +1,8 @@
 # Penn-State-REU-2021-DenoisingDiffusionForAdversarialPurification
 This is all of the code that I found and created for my project in the 2021 Penn State REU on Machine Learning+Security. This project was overseen by Dr. Jinghui Chen.
 
-Please note this project is a work in progress. Not all of the code functions. However, if you read the code on the attacks, DDPM, and CertifiedRobustnessModel it should all work. You will have to run the attacks on the resnet on your local computer, this code is unavailable because the attacks were not conducted in this directory. Also the DenoisingDiffusion models were not trained in this directory.
+
+Please note this project is a work in progress WIP. Not all of the code functions. However, if you read the code on the attacks, DDPM, and CertifiedRobustnessModel it should all work. You will have to run the attacks on the resnet on your local computer, this code is unavailable because the attacks were not conducted in this directory. Also the DenoisingDiffusion models were not trained in this directory.
 
 The ongoing experiments are present in TestingModels.ipynb
 
